@@ -1,6 +1,6 @@
 {
   "name": "e-modules",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Vue后台管理通用工具组件",
   "main": "bundle/index.js",
   "files": [
